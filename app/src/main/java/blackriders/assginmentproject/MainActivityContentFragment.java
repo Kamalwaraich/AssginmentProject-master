@@ -193,6 +193,8 @@ public class MainActivityContentFragment extends Fragment {
             txt_no_data.setVisibility(View.VISIBLE);
         } else {
             list_events.setAdapter(new EventAdapter(getActivity(), getSqLitDB().getEventsList()));
+            list_events.setVisibility(View.VISIBLE);
+            txt_no_data.setVisibility(View.GONE);
         }
     }
 
