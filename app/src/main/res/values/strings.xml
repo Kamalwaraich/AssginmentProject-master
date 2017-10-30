@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Assignment Project</string>
+
+    <string name="add_event">Add Event</string>
+    <string name="hint_edit_title">Enter a title for the event.</string>
+    <string name="detail">Details</string>
+    <string name="hint_edit_place">Enter place for the event.</string>
+    <string name="hint_edit_duration">Enter duration for the event.</string>
+    <string name="hint_edit_comment">Enter comment for the event.</string>
+    <string name="date_picker_title">Date of Event</string>
+    <string name="time_picker_title">Time of Event</string>
+    <string name="take">Take!</string>
+    <string name="hint_comment">Enter comment</string>
+    <string name="email_id">Email Id</string>
+    <string name="enter_name">Enter name</string>
+
+    <string name="gps_network_not_enabled">Need to enable GPS to get current location.</string>
+    <string name="open_location_settings">Open Settings</string>
+    <string name="map_activity">Map</string>
+    <string name="edit_profile">Edit Profile Details</string>
+    <string name="show_profile">Show Profile Details</string>
+</resources>
